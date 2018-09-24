@@ -10,4 +10,4 @@
 * CSS
 * JavaScript
 
-* 🕹 Demo: <a href="https://lovechase.github.io/How-Good-is-your-Memory/" target="_blank">Estimator</a>
+* 🕹 Demo: <a href="https://lovechase.github.io/How-Good-is-your-Memory/" target="_blank">Memory Card Game</a>
